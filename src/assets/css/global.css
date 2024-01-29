@@ -106,11 +106,11 @@
 
 .border-dark
 {
-    border-radius: 60px;
+    border-radius: 65px;
     border: 1px solid var(--Dark, #1F2326);
 }
 
 .rounded-30
 {
-    border-radius: 30px;
+    border-radius: 35px;
 }

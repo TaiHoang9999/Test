@@ -22,7 +22,7 @@
             </div>
         </section>
 
-        <section class = "bg-white round"></section>
+        <section class = "bg-white round ddd"></section>
     </main>
 
 
